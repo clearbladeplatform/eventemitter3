@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,eventemitter3",
+    "logging_enabled": "false",
+    "name": "eventemitter3SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "eventemitter3SmokeTest.js"
+}
